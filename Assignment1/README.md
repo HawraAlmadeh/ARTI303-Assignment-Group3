@@ -10,12 +10,12 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Hawra Hussain Almadeh |     2230005705 | Leader |
+| Ghala Abdulatif Alzahrani | 2250005943 | Member |
+| Jana Mubarak Aldossary |    2250000153 | Member |
+| Hala Ghazi Alharbi |        2240004195 | Member |
+| Deema Fawaz Alfahmi |       2250002949 | Member |
+
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Add your dataset link here]([YOUR_DATASET_LINK](https://huggingface.co/datasets/electricsheepafrica/africa-synth-retail-and-ecommerce-support-ticket-resolution-data-nigeria))
 
 ##  Requirements
 
@@ -91,7 +91,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [Add your GitHub repository link here](https://github.com/HawraAlmadeh/ARTI303-Assignment-Group3)
 
 ## Submission
 
